@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+
+.data{
+    color: red;
+    font-size: 50px;
+}
+
+.mydata{
+    color: green;
+    font-size: 40px;
+}
