@@ -14,7 +14,7 @@ import Cybrom from "./cybrom";
  const App=()=>{
   return(
     <>
-
+        <Cybrom/>
 
     
     <h1>Application Form</h1>
