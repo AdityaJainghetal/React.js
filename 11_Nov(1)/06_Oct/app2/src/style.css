@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+#empo{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid black; */
+    text-align: center;
+    /* padding: 10px; */
+}
+
+.data{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aliceblue;
+   
+    /* padding: 5px; */
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+    
+}
