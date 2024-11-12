@@ -13,9 +13,9 @@ body{
     border: 2px solid black;
     border-radius: 10px;
     background-color: aliceblue;
-   
-    /* padding: 5px; */
-    /* display: flex; */
-    /* justify-content: space-evenly; */
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  
     
 }
