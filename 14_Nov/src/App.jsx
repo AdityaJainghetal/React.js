@@ -21,24 +21,24 @@
 
 
 
-// const App=()=>{
+const App=()=>{
   
-//   const myname=(nm)=>{
-//     alert(`My name is : ${nm}`)
-//   }
+  const myname=(nm)=>{
+    alert(`My name is : ${nm}`)
+  }
   
   
   
-//   return(
-//     <>
-//   <h1>Welcome</h1>
-//   <button onClick={()=>{myname  ("Aditya")}}>click here</button>
+  return(
+    <>
+  <h1>Welcome</h1>
+  <button onClick={()=>{myname  ("Aditya")}}>click here</button>
     
-//     </>
-//   )
-// }
+    </>
+  )
+}
 
-// export default App;
+export default App;
 
 
 
@@ -89,24 +89,24 @@
 
 
 
-const App=()=>{
-  const getval=(e)=>{
-    // console.log(e);
-    let nm= e.target.name;
-    let val = e.target.value;
-    console.log({name:nm, value:val})
+// const App=()=>{
+//   const getval=(e)=>{
+//     // console.log(e);
+//     let nm= e.target.name;
+//     let val = e.target.value;
+//     console.log({name:nm, value:val})
     
-  }
+//   }
  
   
   
-  return(
-    <>
-  <h1>Welcome</h1>
-  <input type="text" name="Aditya" onChange={getval}/>
+//   return(
+//     <>
+//   <h1>Welcome</h1>
+//   <input type="text" name="Aditya" onChange={getval}/>
     
-    </>
-  )
-}
+//     </>
+//   )
+// }
 
-export default App;
+// export default App;
