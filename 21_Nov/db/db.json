@@ -1,0 +1,217 @@
+{
+  "student": [
+    {
+      "rollno": 124,
+      "name": "Aditya",
+      "city": "bhopal",
+      "fees": 3400,
+      "id": "ad4f"
+    },
+    {
+      "rollno": 124,
+      "name": "Ankur ",
+      "city": "bhopal",
+      "fees": 3400,
+      "id": "8d44"
+    },
+    {
+      "rollno": 124,
+      "name": "sandeep",
+      "city": "bhopal",
+      "fees": 3400,
+      "id": "56c1"
+    },
+    {
+      "id": "d48d",
+      "rollno": {
+        "rollno": {
+          "rollno": {
+            "rollno": {
+              "rollno": {
+                "rollno": {
+                  "rollno": {
+                    "rollno": {
+                      "rollno": {
+                        "rollno": {
+                          "rollno": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "name": {
+        "rollno": {
+          "rollno": {
+            "rollno": {
+              "rollno": {
+                "rollno": {
+                  "rollno": {
+                    "rollno": {
+                      "rollno": {
+                        "rollno": {
+                          "rollno": {
+                            "rollno": {}
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "city": {
+        "rollno": {
+          "rollno": {
+            "rollno": {
+              "rollno": {
+                "rollno": {
+                  "rollno": {
+                    "rollno": {
+                      "rollno": {
+                        "rollno": {
+                          "rollno": {
+                            "rollno": {}
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "name": {
+          "rollno": {
+            "rollno": {
+              "rollno": {
+                "rollno": {
+                  "rollno": {
+                    "rollno": {
+                      "rollno": {
+                        "rollno": {
+                          "rollno": {
+                            "rollno": {
+                              "rollno": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "fees": {
+        "rollno": {
+          "rollno": {
+            "rollno": {
+              "rollno": {
+                "rollno": {
+                  "rollno": {
+                    "rollno": {
+                      "rollno": {
+                        "rollno": {
+                          "rollno": {
+                            "rollno": {}
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "name": {
+          "rollno": {
+            "rollno": {
+              "rollno": {
+                "rollno": {
+                  "rollno": {
+                    "rollno": {
+                      "rollno": {
+                        "rollno": {
+                          "rollno": {
+                            "rollno": {
+                              "rollno": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "city": {
+          "rollno": {
+            "rollno": {
+              "rollno": {
+                "rollno": {
+                  "rollno": {
+                    "rollno": {
+                      "rollno": {
+                        "rollno": {
+                          "rollno": {
+                            "rollno": {
+                              "rollno": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "name": {
+            "rollno": {
+              "rollno": {
+                "rollno": {
+                  "rollno": {
+                    "rollno": {
+                      "rollno": {
+                        "rollno": {
+                          "rollno": {
+                            "rollno": {
+                              "rollno": {
+                                "rollno": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "1590",
+      "rollno": "121",
+      "name": "Aditya Jain",
+      "city": "Sironj",
+      "fees": "4500"
+    }
+  ]
+}

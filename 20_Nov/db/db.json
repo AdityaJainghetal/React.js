@@ -1,0 +1,24 @@
+{
+"student":
+                [
+    {
+        "rollno":124,
+        "name":"Aditya",
+        "city":"bhopal",
+        "fees":3400
+    },
+    {
+        "rollno":124,
+        "name":"Ankur ",
+        "city":"bhopal",
+        "fees":3400
+    },
+    {
+        "rollno":124,
+        "name":"sandeep",
+        "city":"bhopal",
+        "fees":3400
+    }
+]
+
+}
