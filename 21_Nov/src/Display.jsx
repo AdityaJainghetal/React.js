@@ -3,7 +3,7 @@ import axios from "axios";
 const Display=()=>{
     const [mydata, setMydata]=useState([]);
     const loadData=()=>{
-        let api="http://localhost:8080/students/datadisplay";
+        let api="http://localhost:3000/student";
         axios.get(api).then((res)=>{
             setMydata(res.data)
             console.log(res.data);
