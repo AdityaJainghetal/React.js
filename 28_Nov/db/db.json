@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "HTML Complete Refrence",
+      "price": 500,
+      "author_name": "John Doe",
+      "publish_year": 2022
+    },
+    {
+      "id": "9ca1",
+      "name": "python complete refrences",
+      "price": "700",
+      "author_name": "Semon Sahu",
+      "publish_year": "2021"
+    },
+    {
+      "id": "4ac2",
+      "name": "css designing",
+      "price": "900",
+      "author_name": "sajal verma",
+      "publish_year": "2024"
+    },
+    {
+      "id": "655b",
+      "name": "React js by Pawwi sir",
+      "price": "1670",
+      "author_name": "Pawan Patahriya",
+      "publish_year": "2024"
+    },
+    {
+      "id": "4e29",
+      "name": "styling with css",
+      "price": "3400",
+      "author_name": "Sumit Mewada",
+      "publish_year": "2021"
+    },
+    {
+      "id": "21ee",
+      "name": "HTML Simple book with 5 pages",
+      "price": "21",
+      "author_name": "Radha Kurrey",
+      "publish_year": "2010"
+    }
+  ]
+}
