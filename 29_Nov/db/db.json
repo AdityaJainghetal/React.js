@@ -34,13 +34,6 @@
       "price": "3400",
       "author_name": "Sumit Mewada",
       "publish_year": "2021"
-    },
-    {
-      "id": "21ee",
-      "name": "HTML Simple book with 5 pages",
-      "price": "21",
-      "author_name": "Radha Kurrey",
-      "publish_year": "2010"
     }
   ]
 }
