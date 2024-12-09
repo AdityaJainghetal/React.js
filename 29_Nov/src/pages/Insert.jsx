@@ -33,7 +33,7 @@ const Insert=()=>{
          <Form style={{width:"50%", paddingLeft:"25%"}}>
       <Form.Group className="mb-3" controlId="formBasicEmail">
         <Form.Label>Enter Book name</Form.Label>
-        <Form.Control type="text" name="Enter your name" value={input.name}  onChange={handleInput}  />
+        <Form.Control type="text" name="name" value={input.name}  onChange={handleInput}  />
       </Form.Group>
       <Form.Group className="mb-3" controlId="formBasicEmail">
         <Form.Label>Enter Book price</Form.Label>
