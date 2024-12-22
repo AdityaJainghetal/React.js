@@ -1,0 +1,100 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"t shirt",
+            "description":"this is branded t shirt for man",
+            "category":"men",
+            "price":1250,
+            "images":"https://m.media-amazon.com/images/I/71Au+xb4fYL._SX679_.jpg"
+        },
+        {
+            "id":2,
+            "name":"jeans",
+            "description":"this is branded jeans for man",
+            "category":"men",
+            "price":4550,
+            "images":"https://m.media-amazon.com/images/I/61R0b4EZ+EL._SY879_.jpg"
+        },
+        {
+            "id":3,
+            "name":"jacket",
+            "description":"this jacket  for man",
+            "category":"men",
+            "price":5600,
+            "images":"https://m.media-amazon.com/images/I/61Q0xlCF8zL._SX679_.jpg"
+        },
+        {
+            "id":4,
+            "name":"frok",
+            "description":"this frok is very good for women",
+            "category":"women",
+            "price":3400,
+            "images":"https://m.media-amazon.com/images/I/61jOmV6GMwL._SY741_.jpg"
+        },
+        {
+            "id":5,
+            "name":"suite",
+            "description":"new branded suite for girls",
+            "category":"women",
+            "price":700,
+            "images":"https://m.media-amazon.com/images/I/71yebBq7BRL._SY879_.jpg"
+        },
+        {
+            "id":6,
+            "name":"saree",
+            "description":"this is branded saree for woman",
+            "category":"women",
+            "price":5000,
+            "images":"https://m.media-amazon.com/images/I/71381Bj5xFL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id":7,
+            "name":"baby suite",
+            "description":"new baby suite for party",
+            "category":"kids",
+            "price":1400,
+            "images":"https://m.media-amazon.com/images/I/71ovSb3dgFL._SX679_.jpg"
+        },
+        {
+            "id":8,
+            "name":"blazer",
+            "description":"blazer for kids",
+            "category":"kids",
+            "price":6700,
+            "images":"https://m.media-amazon.com/images/I/81m-jvHI6sL._SX679_.jpg"
+        },
+        {
+            "id":9,
+            "name":"truser",
+            "description":"small truser for kids",
+            "category":"kids",
+            "price":560,
+            "images":"https://m.media-amazon.com/images/I/718NDupn0QL._SX679_.jpg"
+        },
+        {
+            "id":10,
+            "name":"hoody",
+            "description":"hoody for  men",
+            "category":"men",
+            "price":1250,
+            "images":"https://m.media-amazon.com/images/I/81ZaYsU0cPL._SX679_.jpg"
+        },
+        {
+            "id":11,
+            "name":"t shirt ",
+            "description":"this is branded t shirt for weman",
+            "category":"women",
+            "price":780,
+            "images":"https://m.media-amazon.com/images/I/61PeQOtUweL._SX679_.jpg"
+        },
+        {
+            "id":12,
+            "name":"shirt",
+            "description":"this is branded t shirt for man",
+            "category":"kids",
+            "price":1000,
+            "images":"https://m.media-amazon.com/images/I/81GN4fxE1dL._AC_UL480_FMwebp_QL65_.jpg"
+        }
+    ]
+}
