@@ -7,6 +7,7 @@ const About=()=>{
 
         <>
         <h1>welcome to About</h1>
+        
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam, maiores?
         <br /> <br />
         <table width="100%" border="2">

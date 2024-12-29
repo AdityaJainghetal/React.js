@@ -6,6 +6,7 @@ import { useParams } from "react-router-dom";
 const Edit=()=>{
     const [mydata, setMydata] =useState({});
     const {id} = useParams();
+  
     const loadData=()=>{
         let api = `http://localhost:3000/books/${id}`
         axios.get(api).then((res)=>{
@@ -36,6 +37,7 @@ const Edit=()=>{
 
     return(
         <>
+          <h1>Edit Book with ID: {id}</h1>
         <h1>Update your Record</h1>
 
         Edit name: <input type="text" name="name" value={mydata.name} onChange={handleInput}/>

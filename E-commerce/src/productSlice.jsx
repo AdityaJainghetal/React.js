@@ -34,9 +34,7 @@ const productSlice= createSlice({
                     else 
                     {
                         state.cart[i].qnty--;
-                    }
-
-                   
+                    }     
                 }
                 
             }
@@ -49,6 +47,7 @@ const productSlice= createSlice({
         }
     }
 })
+
 export const{addToCart, qntyIncrement, qntyDecrement, itemRemove} = productSlice.actions;
 export default productSlice.reducer;
 
