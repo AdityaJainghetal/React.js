@@ -50,8 +50,8 @@ const productSlice= createSlice({
         },
 
         itemRemove:(state, actions)=>{
-            console.log(actions.payload.id);
-            state.cart=state.cart.filter(item=>item.id!=actions.payload.id);
+            console.log(actions.payload);
+            state.cart=state.cart.filter(item=>item.id!=actions.payload);
         }
     }
 })

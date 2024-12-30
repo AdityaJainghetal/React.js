@@ -37,7 +37,7 @@ const MyCart=()=>{
                 <td> {key.price * key.qnty} </td>
                 <td> 
 
-                  <button onClick={()=>{dispatch(itemRemove({id:key.id}))}}> Remove</button>
+                  <button onClick={()=>{dispatch(itemRemove(key.id))}}> Remove</button>
                 </td>
               </tr>
             </>
