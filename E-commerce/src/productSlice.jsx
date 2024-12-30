@@ -1,4 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
+import { message } from "antd";
 const productSlice= createSlice({
     name:"myproduct",
     initialState:{
@@ -6,7 +7,14 @@ const productSlice= createSlice({
     },
     reducers:{
         addToCart:(state, actions)=>{
-            state.cart.push(actions.payload);
+            let myData = state.cart.filter((key)=>key.id==actions.payload.id);
+            if(myData.length>=1){
+                message.error("Product already added");
+            }
+            else{
+                state.cart.push(actions.payload);
+            }
+            
         },
 
 
