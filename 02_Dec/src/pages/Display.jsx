@@ -11,6 +11,7 @@ const Display=()=>{
             setMydata(res.data);
         })
     }
+    
 
     useEffect(()=>{
         loadData();
