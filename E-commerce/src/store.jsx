@@ -1,5 +1,4 @@
 import { configureStore } from "@reduxjs/toolkit";
-// import { configureStore } from "@reduxjs/toolkit";
 import { persistStore, persistReducer } from "redux-persist";
 import localStorage from "redux-persist/es/storage";
 import proReducer from "./productSlice";
@@ -10,7 +9,6 @@ const persistConfig = {
   };
 
 
-//   const persistedReducer =
 const store= configureStore({
     reducer:{
         myproduct: persistReducer(persistConfig, proReducer)
