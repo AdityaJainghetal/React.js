@@ -1,0 +1,15 @@
+#myCard{
+    border: 3px solid grey;
+    box-shadow: 2px 2px lightgrey;
+    width: 250px;
+    border-radius: 30px;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+#myBox{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
