@@ -1,26 +1,14 @@
-import React, { createContext, useState } from 'react';
+import React from 'react'
+import ChangeColor from './ChangeColor'
 
-
-
-const myContext = createContext();
 const App = () => {
-  const [user,Setuser] = useState("pink");
-
   return (
     <>
-    <myContext.Provider value={{user, Setuser}}>
-
-    <div>
-      <div style={{width:"500px", height:"500px", backgroundColor:user}}>
-
-      </div>
-      <button onClick={()=>{Setuser("yellow")}}>Click here</button>
-    </div>
-   
-    </myContext.Provider>
-   
+    <ChangeColor/>
+    
     </>
   )
 }
+
 
 export default App
